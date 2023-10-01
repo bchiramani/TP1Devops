@@ -1,1 +1,2 @@
 this is file 2
+File 2 modified after the first commit
